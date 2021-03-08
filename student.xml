@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="q1.xsd">
+ <firstnane>Vinay</firstnane>
+  <lastname>Kumar Rai</lastname>
+  <address>xyz</address>
+  <percentage>94</percentage>
+  <current_year>2021</current_year>
+</student>

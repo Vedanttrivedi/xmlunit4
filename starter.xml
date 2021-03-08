@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+	<lunch xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsd:noNamespaceSchemaLocation="starter.xsd">
+		<starter>
+			<soup>Hot n Sour</soup>
+		</starter>
+		<main_course>
+			<veg>Punjabi</veg>
+		</main_course>
+		<dessert>
+			<icecream>SandwichIcecream</icecream>
+		</dessert>
+	</lunch>

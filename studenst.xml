@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="students.xsd">
+		<personal_info>
+			<name>Vedant</name>
+		<address>Gota,Ahmedabad</address>
+		<birthdate>2002-05-13</birthdate>
+		<gender>Male</gender>
+		<mno>9426396758</mno>
+	</personal_info>
+	<result>
+		<total>700</total>
+		<percentage>100</percentage>
+		<grade>A</grade>
+	</result>
+	</student>

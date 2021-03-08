@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<schema xmlns="http://www.w3.org/2001/XMLSchema">
+		<element name="employee">
+			<complexType>
+				<sequence>
+					<element name="boy" maxOccurs="1">
+						<complexType>
+							<sequence>
+								<element name="fname" type="string" />
+								<element name="lname" type="string" />
+								<element name="age" type="int" />
+							</sequence>
+							</complexType>
+						</element>
+						<element name="girl" maxOccurs="1">
+						<complexType>
+							<sequence>
+								<element name="fname" type="string" />
+								<element name="lname" type="string" />
+								<element name="age" type="int" />
+							</sequence>
+							</complexType>
+						</element>
+				</sequence>
+			</complexType>
+		</element>
+	</schema>

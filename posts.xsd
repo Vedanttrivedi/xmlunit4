@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<xsd:element name="post">
+			<xsd:complexType>
+				<xsd:sequence>
+					<xsd:element name="caption" type="xsd:string" />
+					<xsd:element name="date" type="xsd:date"/>
+					<xsd:element name="image1_url" type="xsd:string"/>
+					<xsd:element name="image2_url" type="xsd:string"/>
+					<xsd:element name="category" type="xsd:string" />
+					<xsd:element name="type" type="xsd:int"/>
+				</xsd:sequence>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>

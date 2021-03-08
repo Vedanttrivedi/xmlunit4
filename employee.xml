@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<employee xmlns="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="employee.xsd">
+		
+			<boy>
+				<fname>Vedant</fname>
+				<lname>Trivedi</lname>
+				<age>18</age>
+			</boy>
+			
+			<girl>
+				<fname>Dhwani</fname>
+				<lname>Trivedi</lname>
+				<age>21</age>
+			</girl>
+		
+	</employee>

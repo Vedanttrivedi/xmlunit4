@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+	<post xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="posts.xsd">
+		<caption>it was 2k19</caption>
+		<date>2020-08-18</date>
+		<image1_url>https://wallpair.com/media/poll_pics/f1.jpg</image1_url>
+		<image2_url>https://wallpair.com/media/poll_pics/f2.jpg</image2_url>
+		<category>general</category>
+		<type>0</type>
+		
+	</post>
